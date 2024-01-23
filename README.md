@@ -1,6 +1,6 @@
 ### Olá, sou Ana Paula Souza do Nascimento
 
-- 🌱 Estudando React e Typescript
+- 🌱 Estudando Angular e Typescript
 - 😄 Pronouns: Ela/Dela
 
   <a href="https://github.com/anapnascimento">
