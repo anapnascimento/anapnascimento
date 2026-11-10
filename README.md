@@ -1,10 +1,10 @@
 ### Olá, sou Ana Paula Souza do Nascimento
 
 - 🌱 Estudando Angular/React e Typescript
-- 😄 Pronouns: Ela/Dela
-![Estatísticas do GitHub](https://vercel.app)
+- 😄 Pronouns: Ela/Dela  
+![Estatísticas do GitHub](github-readme-stats-roan-iota-51.vercel.app)
 
-![Linguagens Mais Usadas](https://vercel.app)
+![Linguagens Mais Usadas](github-readme-stats-roan-iota-51.vercel.app)
 
 
 
