@@ -5,18 +5,14 @@
 <table border="0" align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-api-sand.vercel.app/api/?username=anapnascimento&show_icons=true&theme=tokyonight" alt="Estatísticas Gerais" />
+      <img src="https://github-readme-stats-api-sand.vercel.app/?username=anapnascimento&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas Gerais" />
     </td>
     <td>
-      <img src="https://github-readme-stats-api-sand.vercel.app/api/top-langs/?username=anapnascimento&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
+      <img src="https://github-readme-stats-api-sand.vercel.app/top-langs/?username=anapnascimento&layout=compact&theme=tokyonight&include_all_commits=true" alt="Linguagens Mais Usadas" />
     </td>
   </tr>
 </table>
 
-  <a href="https://github.com/anapnascimento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapnascimento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapnascimento&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
