@@ -8,7 +8,7 @@
       <img src="https://github-readme-stats-api-sand.vercel.app/api/?username=anapnascimento&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas Gerais" />
     </td>
     <td>
-      <img src="[https://github-readme-stats-api-sand.vercel.app/api/top-langs/?username=anapnascimento&layout=compact&theme=tokyonight](https://github-readme-stats-api-sand.vercel.app/api/?username=anapnascimento&show_icons=true&theme=tokyonight&include_all_commits=true)" alt="Linguagens Mais Usadas" />
+      <img src="https://github-readme-stats-api-sand.vercel.app/api/top-langs/?username=anapnascimento&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
     </td>
   </tr>
 </table>
