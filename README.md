@@ -2,12 +2,16 @@
 
 - 🌱 Estudando Angular/React e Typescript
 - 😄 Pronouns: Ela/Dela  
-![Estatísticas do GitHub](github-readme-stats-roan-iota-51.vercel.app)
-
-![Linguagens Mais Usadas](github-readme-stats-roan-iota-51.vercel.app)
-
-
-
+<table border="0" align="center">
+  <tr>
+    <td>
+      <img src="https://vercel.app" alt="Estatísticas Gerais" />
+    </td>
+    <td>
+      <img src="https://vercel.app" alt="Linguagens Mais Usadas" />
+    </td>
+  </tr>
+</table>
 
   <a href="https://github.com/anapnascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapnascimento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
