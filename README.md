@@ -5,10 +5,10 @@
 <table border="0" align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-api-sand.vercel.app/?username=anapnascimento&show_icons=true&theme=tokyonight" alt="Estatísticas Gerais" />
+      <img src="https://github-readme-stats-api-sand.vercel.app/api/?username=anapnascimento&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas Gerais" />
     </td>
     <td>
-      <img src="[https://github-readme-stats-api-sand.vercel.app/top-langs/?username=anapnascimento&layout=compact&theme=tokyonight](https://github-readme-stats-api-sand.vercel.app/api/?username=anapnascimento&show_icons=true&theme=tokyonight&include_all_commits=true)" alt="Linguagens Mais Usadas" />
+      <img src="[https://github-readme-stats-api-sand.vercel.app/api/top-langs/?username=anapnascimento&layout=compact&theme=tokyonight](https://github-readme-stats-api-sand.vercel.app/api/?username=anapnascimento&show_icons=true&theme=tokyonight&include_all_commits=true)" alt="Linguagens Mais Usadas" />
     </td>
   </tr>
 </table>
