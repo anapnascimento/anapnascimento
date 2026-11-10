@@ -5,10 +5,10 @@
 <table border="0" align="center">
   <tr>
     <td>
-      <img src="https://vercel.app" alt="Estatísticas Gerais" />
+      <img src="github-readme-stats-api-sand.vercel.app" alt="Estatísticas Gerais" />
     </td>
     <td>
-      <img src="https://vercel.app" alt="Linguagens Mais Usadas" />
+      <img src="github-readme-stats-api-sand.vercel.app" alt="Linguagens Mais Usadas" />
     </td>
   </tr>
 </table>
